@@ -1,0 +1,4 @@
+# Executables
+*/target/*
+*.exe
+*.pdb
