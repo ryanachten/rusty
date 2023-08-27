@@ -67,5 +67,5 @@ impl Rectangle {
         }
     }
 }
-let sq = Rectangle:square(3);
+let sq = Rectangle::square(3);
 ```
